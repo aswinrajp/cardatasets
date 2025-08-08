@@ -1,0 +1,5 @@
+a="hollo"
+b=" "
+c="world"
+print(a,b,c)
+  
